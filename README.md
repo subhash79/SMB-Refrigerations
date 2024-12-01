@@ -9,6 +9,7 @@ Welcome to the GitHub repository for Cool Chill Services, a business website cre
 ## Website
 
 Visit our website: [Cool Chill Services](https://cool-chill-services.wegic.app/home)
+https://cool-chill-services.wegic.app/home
 
 ## About
 
